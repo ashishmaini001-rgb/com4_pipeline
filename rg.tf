@@ -4,3 +4,10 @@ resource "azurerm_resource_group" "block1" {
     location = "West US"
   
 }
+
+resource "azurerm_resource_group" "block2" {
+
+    name ="IPL11"
+    location = "West US"
+  
+}
