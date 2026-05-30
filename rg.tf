@@ -7,7 +7,7 @@ resource "azurerm_resource_group" "block1" {
 
 resource "azurerm_resource_group" "block2" {
 
-    name ="IPL11"
+    name ="RTO1111"
     location = "West US"
   
 }
