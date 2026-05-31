@@ -12,9 +12,4 @@ resource "azurerm_resource_group" "block2" {
   
 }
 
-resource "azurerm_resource_group" "block3" {
 
-    name ="IPL2222222"
-    location = "West US"
-  
-}
