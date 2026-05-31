@@ -12,4 +12,10 @@ resource "azurerm_resource_group" "block2" {
   
 }
 
+resource "azurerm_resource_group" "block3" {
+
+    name ="OOOOOOOSGSGSG"
+    location = "West US"
+  
+}
 
